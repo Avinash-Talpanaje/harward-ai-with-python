@@ -1,0 +1,5 @@
+DFS
+BFS
+Greedy Best-First search
+A* search
+Minimax

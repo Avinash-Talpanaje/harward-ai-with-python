@@ -1,0 +1,4 @@
+1. https://code.visualstudio.com/docs/python/environments
+2. How to python scripts with command line arguments
+	- create launch.json
+	- add args field in the json and supply an array for arguments
